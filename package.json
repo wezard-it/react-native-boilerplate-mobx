@@ -1,6 +1,6 @@
 {
     "name": "@wezard/react-native-wix-navigation-mobx-template",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Wezard React Native Template with Wix Navigation & Mobx",
     "repository": "https://github.com/wezard-it/react-native-boilerplate-mobx",
     "author": "Wekouri Eric <eric.wekouri@gmail.com> (https://developers.westudents.it)",
